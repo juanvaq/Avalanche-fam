@@ -4,21 +4,21 @@ key: Avl_Fam
 color: teal
 emblem: Twin_PEAKS_01
 info:
-logo: Avalanche-fam/4AA28BA8-C59A-4E3E-AA70-5BBCB2A6F198.jpeg
-description: >
-**Avalanche Family** is a friendly and mature group of people with a lot of experience in the game.
-We have 3 clans of different levels and a very active discord server.
-We care about our players and try to get them to their max potential through our clans.
-The family is focused in war and ladder.
-Avalanche is for top ladder and war players, 
-Blitzkrieg is for competitive war players that aren't already maxed
-and Star Lords is our casual clan for more relaxed players.
-social:
--discord: https://discord.gg/thqNfdY
-clans:
--name: Avalanche
-tag: 9QRYQ9YR
--name: Blitzkrieg
-tag: CQQY89
--name: Star Lords
-tag: UVQ88Q
+  logo: Avalanche-fam/4AA28BA8-C59A-4E3E-AA70-5BBCB2A6F198.jpeg
+  description: >
+    **Avalanche Family** is a friendly and mature group of people with a lot of experience in the game.
+    We have 3 clans of different levels and a very active discord server.
+    We care about our players and try to get them to their max potential through our clans.
+    The family is focused in war and ladder.
+    Avalanche is for top ladder and war players, 
+    Blitzkrieg is for competitive war players that aren't already maxed
+    and Star Lords is our casual clan for more relaxed players.
+  social:
+    -discord: https://discord.gg/thqNfdY
+  clans:
+    -name: Avalanche
+    tag: 9QRYQ9YR
+    -name: Blitzkrieg
+    tag: CQQY89
+    -name: Star Lords
+    tag: UVQ88Q
